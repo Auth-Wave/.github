@@ -1,5 +1,7 @@
 # Auth Wave
 
+![Auth Wave Banner](./images/banner.png)
+
 Auth Wave is a robust authentication and user management service that simplifies secure user access for applications. It provides multiple authentication methods, comprehensive security features, and multi-project support, allowing developers to implement enterprise-grade authentication without building complex security infrastructure from scratch. Built with modern technologies, Auth Wave handles everything from user registration and verification to session management and security logging.
 
 ## Core Features
