@@ -80,7 +80,27 @@ AuthWave's backend endpoints are secured using unique project-keys and project-i
 - Leveraging TypeScript provides strong type safety throughout the codebase, while clear error handling mechanisms enhance reliability and debuggability.
 - Scalability considerations such as database indexing for optimized data retrieval, efficient query patterns to minimize latency, pagination support for handling large datasets, and resource limiting to manage system resources effectively.
 
-## Installation
+## License
+
+MIT License
+
+Copyright (c) 2024 Abhijeet Gautam
+
+This software is provided "as is" and free to use. The author disclaims all warranties and liabilities.
+You are free to use, modify, copy, distribute this software for any purpose, commercial or non-commercial.
+
+By using this software, you agree that:
+
+1. The author takes no responsibility for any damages or issues arising from the use of this software
+
+2. You will not hold the author legally liable for anything related to this software
+3. You understand this is provided without any warranty or guarantee of any kind
+4. You use this software at your own risk
+
+The above copyright notice and this disclaimer must be included in all copies or substantial portions of the Software.
+
+For full details of the MIT License under which this software is released, please refer to:
+[MIT License](https://opensource.org/licenses/MIT)
 
 ## Tech Stack
 
